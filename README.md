@@ -52,4 +52,5 @@ Load or refresh the data if needed.
 Explore the interactive visuals and filters.
 
 
-
+![Screenshot 2025-05-13 174253](https://github.com/user-attachments/assets/4e487759-e96b-4e9d-b529-a27611b6bd93)
+![Screenshot 2025-05-13 174238](https://github.com/user-attachments/assets/ba0fb6cb-bc50-41ed-85dc-8ec0ca51db84)
